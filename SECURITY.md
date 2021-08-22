@@ -2,10 +2,12 @@
 
 ## Supported Versions
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 0.12.x   | :white_check_mark: |
-| < 0.12   | :x:                |
+| Version | Supported |
+|---------|------------------------|
+| 13.0.x  | ✔️ Yes |
+| 0.13.x  | ❌ No  |
+| 0.12.x  | 🔐 Security updates until January 2022 |
+| < 0.12  | ❌ No |
 
 ## Reporting a Vulnerability
 
